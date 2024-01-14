@@ -1,0 +1,22 @@
+{
+    "description": "passions",
+
+    "domain": "ssynical.github.io",
+    "subdomain": "",
+
+    "owner": {
+        "repo": "https://github.com/ssynical",
+        "email": "trapizoids543@gmail.com"
+    },
+
+    "record": {
+        "A": [],
+        "AAAA": [],
+        "CNAME": "ssynical.github.io",
+        "MX": [],
+        "NS": [],
+        "TXT": []
+    },
+
+    "proxied": false
+}
